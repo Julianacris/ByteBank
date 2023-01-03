@@ -1,0 +1,15 @@
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.exe
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.deps.json
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.runtimeconfig.json
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.dll
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\bin\Debug\net6.0\ByteBank1.pdb
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.AssemblyInfo.cs
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.dll
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\obj\Debug\net6.0\refint\ByteBank1.dll
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.pdb
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\obj\Debug\net6.0\ByteBank1.genruntimeconfig.cache
+C:\Users\julia\source\repos\sharpCodersExercicios\Beecrowd\ByteBank1\ByteBank1\obj\Debug\net6.0\ref\ByteBank1.dll
